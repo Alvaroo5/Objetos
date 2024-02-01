@@ -5,7 +5,7 @@ public abstract class Personal {
     
     Personal(String nombreCompleto) {
         this.nombre = nombre;
-    }
+    }	
     
     //al menos un metodo abstracto
 }

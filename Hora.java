@@ -50,4 +50,3 @@ public class Hora {
 		        System.out.printf("%02d:%02d:%02d\n", this.hora, this.minuto, this.segundo);
 		 }
 }
-

@@ -11,3 +11,4 @@ class Vagon extends Maquinaria {
         this.tipoMercancia = tipoMercancia;
     }
 }
+ 
